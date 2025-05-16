@@ -45,16 +45,18 @@
       <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="35"/>
 </p>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+### <img src='https://img.icons8.com/?size=100&id=63777&format=png&color=000000' width='30' /> My Github Stats:
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=radical)](https://github.com/VictorAChang/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYycXdnd2pkeTIwZ2d6MThtYXZpdHR3cXNremhlaDhsMHF5dmNsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elatsjsGzdLtNov4Ky/giphy.gif" width = '25' /> Want to check out my soccer app?:
-<!-- BLOG-POST-LIST:START -->
-- [Soccer Analytics App](https://frontend-6k09.onrender.com)
+### <img width="30" height="30" src="https://img.icons8.com/nolan/64/football.png" alt="football"/> Want to check out my soccer app? Click on this GIF!:
+<a href="https://frontend-6k09.onrender.com" target="_blank">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I5Nnl4M3dwMGg0bGtidzg4anJmZ2FuOW96N2Vvemw3amp4ZWZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nSNQL3G3MILAZSE/giphy.gif" width="400"/>
+</a>
+
 
 ---
 
