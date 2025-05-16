@@ -1,19 +1,60 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Victor 
 <p align="center">
 <a href="https://linkedin.com/in/VictorAChang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorAChang" height="30" width="30" /></a>&nbsp;
 <a href="https://victorachang.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wish.svg" alt="victorachang" height="30" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/victor.chang.18/"><img align="center" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 </p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" /> <br>
+<a href="https://linkedin.com/in/VictorAChang" target="blank"><img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" /> </a>&nbsp;
+
 ### About Me:  
 
-- 📈 I'm a Data Analyst working at United States Special Operations Command (USASOC) AI Division
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.py**, **.js**, **.sql**
-- 💬 Talk to me about soccer or machine learning. I am passionate about predictive models and finding ways to make 
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+- I'm a Data Analyst working at United States Special Operations Command (USASOC) AI Division
+      <img width="20" height="20" src="https://img.icons8.com/officel/80/artificial-intelligence.png" alt="artificial-intelligence"/> <br>
+- I love finding ways that data can improve business processes and foster innovation
+      <img width="25" height="22" src="https://img.icons8.com/plasticine/100/innovation.png" alt="innovation"/> <br> 
+- I have a B.S. in Mechanical Engineering from University of South Florida and working on my MBA from Regent University
+      <img width="15" height="15" src="https://img.icons8.com/office/40/university.png" alt="university"/> <br> 
+- I am passionate about soccer and utilizing data to analyze playing patterns and trends, as well as scoring possibilities.
+      <img width="20" height="20" src="https://img.icons8.com/color/48/football.png" alt="football"/> <br> 
+- 💻 Tech I Work With :
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="45"/> 
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" alt="render" width="45" height="45"/>
+      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="85" height="40"/>
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="85" height="40"/>
+</p>
+<br/>
+
+- 📈 Data Science Specific Tools :
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="45" height="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="105" height="35"/>
+      <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="35"/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="35"/>
+</p>
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=radical)](https://github.com/VictorAChang/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYycXdnd2pkeTIwZ2d6MThtYXZpdHR3cXNremhlaDhsMHF5dmNsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elatsjsGzdLtNov4Ky/giphy.gif" width = '25' /> Want to check out my soccer app?:
+<!-- BLOG-POST-LIST:START -->
+- [Soccer Analytics App](https://frontend-6k09.onrender.com)
+
+---
+
