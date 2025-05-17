@@ -10,9 +10,9 @@
 ### About Me:  
 
 - I'm a Data Analyst working at United States Special Operations Command (USASOC) AI Division
-      <img width="20" height="20" src="https://img.icons8.com/officel/80/artificial-intelligence.png" alt="artificial-intelligence"/> <br>
+      <img width="22" height="18" src="https://img.icons8.com/officel/80/artificial-intelligence.png" alt="artificial-intelligence"/> <br>
 - I love finding ways that data can improve business processes and foster innovation
-      <img width="25" height="22" src="https://img.icons8.com/plasticine/100/innovation.png" alt="innovation"/> <br> 
+      <img width="25" height="20" src="https://img.icons8.com/plasticine/100/innovation.png" alt="innovation"/> <br> 
 - I have a B.S. in Mechanical Engineering from University of South Florida and working on my MBA from Regent University
       <img width="15" height="15" src="https://img.icons8.com/office/40/university.png" alt="university"/> <br> 
 - I am passionate about soccer and utilizing data to analyze playing patterns and trends, as well as scoring possibilities.
