@@ -6,9 +6,7 @@
 </p>
 
 
-
-<a href="https://linkedin.com/in/VictorAChang" target="blank"><img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" /> </a>&nbsp;
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVpb2owNGhraXRjODUyYms1ejAwNTAwZzRlNzQxdmtndnpsbHViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100" /> </a>&nbsp;
 ### About Me:  
 
 - I'm a Data Analyst working at United States Special Operations Command (USASOC) AI Division
@@ -40,9 +38,9 @@
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="105" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="115" height="35"/>
       <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="35"/>
       <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="35"/>
 </p>
