@@ -1,9 +1,11 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Victor 
 <p align="center">
+<a href="https://victorachang.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetarchive.svg" alt="Internet Archive" width="30" height="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/VictorAChang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorAChang" height="30" width="30" /></a>&nbsp;
-<a href="https://victorachang.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wish.svg" alt="victorachang" height="30" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/victor.chang.18/"><img align="center" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 </p>
+
+
 
 <a href="https://linkedin.com/in/VictorAChang" target="blank"><img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50" /> </a>&nbsp;
 
