@@ -43,16 +43,16 @@
       <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="35"/>
 </p>
 
-📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=tokyonight" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=tokyonight" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" /></p>
-
 ---
 
 🍴 Check Out My Recipe Website
 A delicious blend of family favorites, seasonal creations, and data-inspired dishes—all served at love!
 <p align="center"><a href="http://www.changfamfood.com" target="_blank"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Click to explore recipes!" /></a></p>
 
+---
 
+📈 GitHub Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=tokyonight" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=tokyonight" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" /></p>
 
 ---
 
