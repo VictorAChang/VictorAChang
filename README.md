@@ -49,7 +49,7 @@
 ---
 
 🍴 Check Out My Recipe Website
-A delicious blend of family favorites, seasonal creations, and data-inspired dishes—all served at changfamfood.com.
+A delicious blend of family favorites, seasonal creations, and data-inspired dishes—all served at love!
 <p align="center"><a href="http://www.changfamfood.com" target="_blank"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Click to explore recipes!" /></a></p>
 
 
