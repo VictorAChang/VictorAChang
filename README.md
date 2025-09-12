@@ -9,13 +9,13 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVpb2owNGhraXRjODUyYms1ejAwNTAwZzRlNzQxdmtndnpsbHViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100" /> </a>&nbsp;
 ### About Me:  
 
-- I'm a Data Analyst / Developer working at Microsoft
+- 💼 Data Analyst / Developer @ Microsoft
       <img width="22" height="18" src="https://img.icons8.com/officel/80/artificial-intelligence.png" alt="artificial-intelligence"/> <br>
 - I love finding ways that data can improve business processes and foster innovation
       <img width="25" height="20" src="https://img.icons8.com/plasticine/100/innovation.png" alt="innovation"/> <br> 
-- I have a B.S. in Mechanical Engineering from University of South Florida and working on my MBA from Regent University
+- 🎓 B.S. in Mechanical Engineering (USF)  MBA in Business Analytics (Regent University) 
       <img width="15" height="15" src="https://img.icons8.com/office/40/university.png" alt="university"/> <br> 
-- I am passionate about soccer and utilizing data to analyze playing patterns and trends, as well as scoring possibilities.
+- ⚽ Soccer enthusiast using data to decode playing patterns and scoring trends
       <img width="20" height="20" src="https://img.icons8.com/color/48/football.png" alt="football"/> <br> 
 - 💻 Tech I Work With :
 
