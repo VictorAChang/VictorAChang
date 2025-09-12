@@ -9,7 +9,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVpb2owNGhraXRjODUyYms1ejAwNTAwZzRlNzQxdmtndnpsbHViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100" /> </a>&nbsp;
 ### About Me:  
 
-- I'm a Data Analyst working at United States Special Operations Command (USASOC) AI Division
+- I'm a Data Analyst / Developer working at Microsoft
       <img width="22" height="18" src="https://img.icons8.com/officel/80/artificial-intelligence.png" alt="artificial-intelligence"/> <br>
 - I love finding ways that data can improve business processes and foster innovation
       <img width="25" height="20" src="https://img.icons8.com/plasticine/100/innovation.png" alt="innovation"/> <br> 
