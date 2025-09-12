@@ -46,6 +46,7 @@
 </p>
 
 ### <img src='https://img.icons8.com/?size=100&id=63777&format=png&color=000000' width='30' /> My Github Stats:
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=radical&t=12345)
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=radical)](https://github.com/VictorAChang/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
