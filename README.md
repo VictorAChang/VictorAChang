@@ -2,7 +2,6 @@
 <p align="center">
 <a href="https://victorachang.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetarchive.svg" alt="Internet Archive" width="30" height="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/VictorAChang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="VictorAChang" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/victor.chang.18/"><img align="center" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 </p>
 
 
