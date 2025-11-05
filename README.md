@@ -13,7 +13,6 @@
 - ⚽ Soccer enthusiast using data to decode playing patterns and scoring trends
 - 🧪 Passionate about AI, deep learning, and building fun, functional websites—including a family recipe hub 🍲
 - 🌍 Explorer at heart—hiking, traveling, and always learning
-
 - 💻 Tech I Work With :
 
 <p align="center">
@@ -38,7 +37,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="45" height="45"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="115" height="35"/>
-      <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="35"/>
       <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="90" height="35"/>
 </p>
 
