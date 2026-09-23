@@ -49,14 +49,18 @@ A delicious blend of family favorites, seasonal creations, and data-inspired dis
 ---
 
 📈 GitHub Stats
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Victor's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" alt="Top languages" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/VictorAChang?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/VictorAChang?label=Stars&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="Stars" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=tokyonight" alt="GitHub streak" />
-  </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VictorAChang&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
