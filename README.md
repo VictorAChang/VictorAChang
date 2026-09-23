@@ -8,12 +8,12 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVpb2owNGhraXRjODUyYms1ejAwNTAwZzRlNzQxdmtndnpsbHViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="100" /> </a>&nbsp;
 ### About Me:  
 
-- 💼 Data Analyst / Developer @ Microsoft
+- 💼 Software Engineer @ Zenithflow
 - 🎓 B.S. in Mechanical Engineering (USF)  MBA in Business Analytics (Regent University) 
-- ⚽ Soccer enthusiast using data to decode playing patterns and scoring trends
-- 🧪 Passionate about AI, deep learning, and building fun, functional websites—including a family recipe hub 🍲
-- 🌍 Explorer at heart—hiking, traveling, and always learning
-- 💻 Tech I Work With :
+- ⚽ Soccer enthusiast - Arsenal fan
+- 🧪 Passionate about AI, deep learning, and building fun, functional web apps 
+- 🌍 Explorer at heart - hiking, traveling, and always learning
+- 💻 Tech I Used to Work With before AI :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="45"/>
