@@ -13,7 +13,7 @@
 - ⚽ Soccer enthusiast - Arsenal fan
 - 🧪 Passionate about AI, deep learning, and building fun, functional web apps 
 - 🌍 Explorer at heart - hiking, traveling, and always learning
-- 💻 Tech I Used to Work With before AI :
+- 💻 Tech I Have Worked With :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="45"/>
