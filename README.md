@@ -58,9 +58,5 @@ A delicious blend of family favorites, seasonal creations, and data-inspired dis
   <img src="https://streak-stats.demolab.com/?user=VictorAChang&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" alt="Top languages" />
-</p>
-
 ---
 
