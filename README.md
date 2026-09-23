@@ -42,12 +42,6 @@
 
 ---
 
-🍴 Check Out My Recipe Website
-A delicious blend of family favorites, seasonal creations, and data-inspired dishes—all served with love!
-<p align="center"><a href="http://www.changfamfood.com" target="_blank"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Click to explore recipes!" /></a></p>
-
----
-
 📈 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/github/followers/VictorAChang?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="Followers" />
