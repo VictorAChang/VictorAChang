@@ -49,7 +49,14 @@ A delicious blend of family favorites, seasonal creations, and data-inspired dis
 ---
 
 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&theme=tokyonight" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=tokyonight" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" /></p>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorAChang&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Victor's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAChang&layout=compact&hide=css,html,php&theme=tokyonight" alt="Top languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAChang&theme=tokyonight" alt="GitHub streak" />
+  </p>
 
 ---
 
